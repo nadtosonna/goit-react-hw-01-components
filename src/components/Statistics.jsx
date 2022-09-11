@@ -14,7 +14,8 @@ const Statistics = ({ title, stats }) => {
                             <span className="percentage">{stat.percentage}%</span>
                         </li>
                     );
-        })} 
+                })
+                } 
 
     </ul>
     </section>
