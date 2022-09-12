@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+}
+.list {
+    display: flex;
+    margin-top: 10px;
+    border: 1px solid #3b497a;
+}
+.item {
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    text-align: center;
+}

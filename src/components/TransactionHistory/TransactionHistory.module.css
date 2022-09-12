@@ -1,0 +1,10 @@
+.transactions {
+    width: 640px;
+    margin: 0 auto;
+    outline: 1px solid #3b497a;
+    text-align: center;
+}
+.transactions thead {
+    height: 60px;
+    background-color: #f52754;
+}

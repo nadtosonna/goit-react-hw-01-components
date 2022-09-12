@@ -1,0 +1,36 @@
+.profile {
+    padding-top: 20px;
+    background-color: #ffffff;
+}
+.description {
+    padding: 10px;
+}
+.avatar {
+    width: 50%;
+    border-radius: 100%;
+    margin: 0 auto;
+    border: 5px solid #000000;
+}
+.name {
+    font-size: 42px;
+    font-weight: 700;
+    text-align: center;
+}
+.tag, .location {
+    text-align: center;
+    margin-top: 10px;
+    color: #3b497a;
+}
+.stats {
+    display: flex;
+    text-align: center;
+}
+.stats li {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    width: calc((100%) / 3);
+    background-color: #f52754;
+    border: 1px solid #3b497a;
+    font-weight: 600;
+}
