@@ -30,6 +30,6 @@ FriendList.propTypes = {
             id: PropTypes.number
         })
     )
-}
+};
 
 export default FriendList;
